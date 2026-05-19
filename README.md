@@ -1,7 +1,8 @@
-# Juan Gutierrez
+# Juan Gutierrez 👋
 ### Full Stack & Mobile Developer | Software Technologist
 
-Based in Cuenca, Ecuador, I specialize in building highly optimized, scalable, and responsive web and mobile applications.
+Based in Cuenca, Ecuador, I am a developer driven by continuous improvement and technical refinement. I don't settle for code that just works; I focus on building highly optimized, scalable, and responsive web and mobile applications using modern ecosystems. My goal is to push my skills further every day, leaving legacy systems behind to master fluid user experiences and solid architectures.
+
 ---
 
 ## Technical Skills
